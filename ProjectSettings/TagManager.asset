@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Floor
+  - Trampolin
+  - Rope
+  - Breakable
+  - TotalRope
+  - h_Wood
+  - h_Steel
+  - h_Plastic
+  - h_Staff
+  - h_Sword
+  - Fire
+  - Chicken
+  - Sticky
+  - ObjectPool
+  - i_Iron
+  - i_Plastic
+  - i_Stone
+  - i_Wood
+  - Activated
+  - BridgeWood
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Cube
+  - Player
+  - Ground
+  - Breakable
+  - Pollete
+  - Sword
+  - Tree
+  - Magic
+  - CraftingObjects
+  - Rope
+  - BridgeWood
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

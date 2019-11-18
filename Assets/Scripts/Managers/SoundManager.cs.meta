@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: eb18da46b373f4c4d982e9a28904c9d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - efxSource: {instanceID: 0}
+  - mv1: {instanceID: 0}
+  - mv2: {instanceID: 0}
+  - MainTheme1: {instanceID: 0}
+  - joint1: {instanceID: 0}
+  - joint2: {instanceID: 0}
+  - lanzar: {fileID: 8300000, guid: 9052766fe8f01454080e3c4fd61b1040, type: 3}
+  - collisionVSwall: {fileID: 8300000, guid: 0e29005da33a9c043a8e12cfed1d2ce5, type: 3}
+  - collisionVSGround: {fileID: 8300000, guid: 291b822814bd4d04390f4e447940e6f1, type: 3}
+  - collisionVSBox: {fileID: 8300000, guid: ce3e129b8462f9943b98892491333ec0, type: 3}
+  - normalCollision: {fileID: 8300000, guid: ab7a4acbac00e4d4fa6493a2a8446ef8, type: 3}
+  - jumpSound: {fileID: 8300000, guid: 7aa7c6c4a3fce1048b320cb22968eede, type: 3}
+  - doorSound: {instanceID: 0}
+  - point1: {instanceID: 0}
+  - point2: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
