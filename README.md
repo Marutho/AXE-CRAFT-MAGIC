@@ -1,9 +1,9 @@
-# Brouder - The Videogame
+# WALKING CLICKMULATOR
 
 <img src="./img.jpeg" alt="Logo">
 
 
-#A sandbox game where you can craft items, cut down trees, even use your magic wand to BECOME A CHICKEN
+A sandbox game where you can craft items, cut down trees, even use your magic wand to BECOME A CHICKEN
 
 
 
